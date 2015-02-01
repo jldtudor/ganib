@@ -1,0 +1,2 @@
+# ganib
+Instance of Ganib.
